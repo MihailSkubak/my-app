@@ -1,0 +1,23 @@
+.first{
+	font-size: 30px;
+}
+.last{
+	font-size: 35px;
+}
+.even{
+	color: blue;
+}
+.odd{
+	color: red;
+}
+
+.class1{
+	color: red;
+}
+.class2{
+	color: yellow;
+}
+
+.invisible{
+	display: none;
+}
